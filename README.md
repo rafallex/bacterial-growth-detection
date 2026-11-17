@@ -1,6 +1,6 @@
 # Time-to-Detection for antibiotic susceptibility testing
 
-Coursework for **1MD048 Research Methodology** (period 2, year 1) of the M.Sc. in Image Analysis and Machine Learning at Uppsala University.
+Coursework for **1MD048 Research Methodology** (period 2, autumn 2025) of the M.Sc. in Image Analysis and Machine Learning at Uppsala University.
 
 The task: from pre-computed Omnipose segmentation masks of *Mycobacterium smegmatis* growing in a microfluidic chip, work out how soon a rifampicin-treated population can be told apart from an untreated control — the **time-to-detection (TTD)**. The sooner inhibition can be called reliably, the faster a susceptibility test reports.
 
